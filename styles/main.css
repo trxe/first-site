@@ -1,0 +1,29 @@
+/* || setup */
+
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	font-size: 12px;
+	background-color: #d4d4d0;
+}
+
+body {
+	min-width: 800px;
+	margin: 0 auto;
+}
+
+/* || typography */
+
+h1 {
+	font-family: 'Sarina', cursive;
+	font-size: 4rem;
+	text-align: right;
+	color: #816654;
+	/*color: white;*/
+	text-shadow: 10px 15px 10px #3f3627;
+}
+
+/* || header layout */
